@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input{
+    margin: 3px;
+    scale: 1.2;
+}
+.checkbox-row{
+    margin: 1px;
+}
+
+.checkbox-container{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+input.Velocity{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
