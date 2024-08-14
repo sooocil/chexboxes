@@ -10,8 +10,10 @@ const Home = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4">
-      <h1 className="text-6xl font-bold mb-2">chexboxes</h1>
-
+<h1 className="selection text-6xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-red-600 drop-shadow-lg">
+  Chexboxes
+</h1>
+      <br />
       <h1 className="text-4xl font-bold mb-2">Checkbox Simulation</h1>
       <h3 className="text-2xl mb-4">Algorithms and Physics Simulation with Checkboxes</h3>
       <p className="mb-6 text-center">
