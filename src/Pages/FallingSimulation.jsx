@@ -19,7 +19,7 @@ const FallingSimulation = () => {
       >
         Home
       </button>
-      <h1 className="text-3xl font-bold mb-6">Falling Simulation</h1>
+      <h1 className="text-3xl font-bold mb-6">Falling Sand Simulation</h1>
     </div>
       <CheckboxArray />
     </div>

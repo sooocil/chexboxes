@@ -17,13 +17,13 @@ const Home = () => {
       <h1 className="text-4xl font-bold mb-2">Checkbox Simulation</h1>
       <h3 className="text-2xl mb-4">Algorithms and Physics Simulation with Checkboxes</h3>
       <p className="mb-6 text-center">
-        Click on the Falling Simulation link to see the simulation
+        Click on the Falling Sand Simulation link to see the simulation
       </p>
       <button 
         onClick={handleNavigation} 
         className="px-6 py-3 bg-blue-500 text-white rounded hover:bg-blue-600 transition mb-4"
       >
-        Falling Simulation
+        Falling Sand Simulation
       </button>
       <label htmlFor="">Other Projects : </label>
       <br />
